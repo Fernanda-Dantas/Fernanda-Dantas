@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Fernanda Dantas! 👋
 
-- 🔭 Estou procurando minha primeira oportunidade na área de tecnologia como Desenvolvedora Front-end.
+- 🔭 Estou aberta minha primeira oportunidade na área de tecnologia como Desenvolvedora Front-end.
 - 🌱 No momento estou aprendendo JavaScript.
 - 😄 Pronomes: ela/dela.
 - ⚡ Fun fact: Amo escrever e já publiquei um livro.
