@@ -1,9 +1,14 @@
-### Olá! Eu sou a Fernanda Dantas! 👋
+
+![gif_github](https://user-images.githubusercontent.com/81118959/157998781-c0d0ed65-1471-48a4-b50f-e7a8634e88ff.gif)
+
 
 - 🔭 Estou aberta para a minha primeira oportunidade na área de tecnologia como Desenvolvedora Front-end.
-- 🌱 No momento estou aprendendo JavaScript.
-- 😄 Pronomes: ela/dela.
+- :pushpin: Atualmente estou trabalhando em [Jogo de Naves.](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate)
+- 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
+- 🌱 No momento estou aprendendo **JavaScript e Bootstrap**.
+- 💬 Me pergunte sobre HTML e CSS3.
 - ⚡ Fun fact: Amo escrever e já publiquei um livro.
+
 
 
 <div align="center">
@@ -15,6 +20,9 @@
   <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fer-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Fer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
   <!-- <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!--Encontrar os icons no site: Dev Icons -->
   <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1491130153912737799/yeQ-44Zz_400x400.jpg">
