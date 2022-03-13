@@ -1,6 +1,14 @@
 
 ![gif_github](https://user-images.githubusercontent.com/81118959/158084651-6f4147a8-e687-4da0-8360-601cdf8ad0bc.gif)
 
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 - 🔭 Estou aberta para uma oportunidade na área de Tecnologia como **Desenvolvedora Front-end**.
 - :pushpin: Atualmente estou trabalhando em [Jogo de Naves.](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate)
