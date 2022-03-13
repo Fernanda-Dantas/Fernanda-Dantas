@@ -1,8 +1,8 @@
 
-![gif_github](https://user-images.githubusercontent.com/81118959/157998781-c0d0ed65-1471-48a4-b50f-e7a8634e88ff.gif)
+![gif_github](https://user-images.githubusercontent.com/81118959/158084651-6f4147a8-e687-4da0-8360-601cdf8ad0bc.gif)
 
 
-- 🔭 Estou aberta para a minha primeira oportunidade na área de tecnologia como Desenvolvedora Front-end.
+- 🔭 Estou aberta para uma oportunidade na área de Tecnologia como **Desenvolvedora Front-end**.
 - :pushpin: Atualmente estou trabalhando em [Jogo de Naves.](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate)
 - 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
 - 🌱 No momento estou aprendendo **JavaScript e Bootstrap**.
