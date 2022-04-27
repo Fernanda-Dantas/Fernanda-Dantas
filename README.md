@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - :pushpin: Atualmente estou trabalhando em [7 Projetos em JavaScript.](https://github.com/Fernanda-Dantas/7_Projetos_em_JavaScript)
 - 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
 - 🌱 No momento estou aprendendo **JavaScript e Bootstrap**.
-- 💬 Me pergunte sobre HTML e CSS3.
+- 💬 Me pergunte sobre CSS3 e Javascript.
 - ⚡ Fun fact: Amo escrever e já publiquei um livro.
 
 
