@@ -11,7 +11,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
 - 🔭 Estou aberta para uma oportunidade na área de Tecnologia como **Desenvolvedora Front-end**.
-- :pushpin: Atualmente estou trabalhando em [7 Projetos em JavaScript.](https://github.com/Fernanda-Dantas/7_Projetos_em_JavaScript)
+- :pushpin: Atualmente estou estudando para aprimorar meus conhecimentos.
 - 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
 - 🌱 No momento estou aprendendo **JavaScript e Bootstrap**.
 - 💬 Me pergunte sobre CSS3 e Javascript.
