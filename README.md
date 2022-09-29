@@ -34,9 +34,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <img align="center" alt="Fer-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  
   ##
-  
+    
 <div> 
   <a href = "mailto:fer.dantas07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-santos-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!-- Site que tem as bagdes: dev.to -->
 </div>
+
+
+
+ [![@389977's Holopin board](https://holopin.io/api/user/board?user=389977)](https://holopin.io/@389977)
