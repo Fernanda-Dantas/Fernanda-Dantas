@@ -11,7 +11,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
 - 🔭 Estou aberta para uma oportunidade na área de Tecnologia como **Desenvolvedora Front-end**.
-- :pushpin: Atualmente estou estudando para aprimorar meus conhecimentos.
+- :pushpin: Atualmente estou trabalhando no projeto [Button Creator](https://github.com/Fernanda-Dantas/button-creator).
 - 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
 - 🌱 No momento estou aprendendo **React e CLOUD**.
 - 💬 Me pergunte sobre CSS3 e Javascript.
