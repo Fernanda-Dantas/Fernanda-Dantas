@@ -13,7 +13,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 🔭 Estou aberta para uma oportunidade na área de Tecnologia como **Desenvolvedora Front-end**.
 - :pushpin: Atualmente estou estudando para aprimorar meus conhecimentos.
 - 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
-- 🌱 No momento estou aprendendo **JavaScript e Bootstrap**.
+- 🌱 No momento estou aprendendo **React e CLOUD**.
 - 💬 Me pergunte sobre CSS3 e Javascript.
 - ⚡ Fun fact: Amo escrever e já publiquei um livro.
 
