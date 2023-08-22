@@ -10,11 +10,11 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 Estou aberta para uma oportunidade na área de Tecnologia como **Desenvolvedora Front-end**.
+- 🔭 Estagiária na área de Tecnologia com **Desenvolvimento Web**.
+- 💻  No momento estou trabalhando com **Angular e Typescript.** 
 - :pushpin: Atualmente estou trabalhando nos projetos [aluraTube](https://github.com/Fernanda-Dantas/aluratube) e [Button Creator](https://github.com/Fernanda-Dantas/button-creator).
-- 💻  Eu procuro colaborar em projetos de **Desenvolvimento Front-end.** 
-- 🌱 No momento estou aprendendo **React e CLOUD**.
-- 💬 Me pergunte sobre CSS3 e Javascript.
+- 🌱 No momento estou aprendendo **Java, Python e C#**.
+- 💬 Me pergunte sobre Javascript, Angular e React.
 - ⚡ Fun fact: Amo escrever e já publiquei um livro.
 
 
