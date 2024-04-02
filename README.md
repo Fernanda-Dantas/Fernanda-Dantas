@@ -1,15 +1,4 @@
 
-![gif_github](https://user-images.githubusercontent.com/81118959/158084651-6f4147a8-e687-4da0-8360-601cdf8ad0bc.gif)
-
-<!--
-How to make the bio gif ?
-💜 Thanks to [matyo91](https://github.com/matyo91)
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
-Then i save result to [assets/github.gif](assets/github.gif)
--->
-
 - 🔭 Estagiária na área de Tecnologia com **Desenvolvimento Web**.
 - 💻  No momento estou trabalhando com **Angular e Typescript.** 
 - :pushpin: Atualmente estou trabalhando nos projetos [aluraTube](https://github.com/Fernanda-Dantas/aluratube) e [Button Creator](https://github.com/Fernanda-Dantas/button-creator).
@@ -42,6 +31,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </div>
 
 <br>
+
+<p style="text-align:center;"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500" text-align="center"></p>
+<br><br>
 
     
 [![@389977's Holopin board](https://holopin.me/389977)](https://holopin.io/@389977)
