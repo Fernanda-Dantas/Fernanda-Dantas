@@ -1,13 +1,4 @@
 
-- 🔭 Estagiária na área de Tecnologia com **Desenvolvimento Web**.
-- 💻  No momento estou trabalhando com **Angular e Typescript.** 
-- :pushpin: Atualmente estou trabalhando nos projetos [aluraTube](https://github.com/Fernanda-Dantas/aluratube) e [Button Creator](https://github.com/Fernanda-Dantas/button-creator).
-- 🌱 No momento estou aprendendo **Typescript, Java, Angular e Ruby On Rails**.
-- 💬 Me pergunte sobre Javascript, Angular e React.
-- ⚡ Fun fact: Amo escrever e já publiquei um livro.
-
-
-
 <div align="center">
   <a href="https://github.com/Fernanda-Dantas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fernanda-Dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
